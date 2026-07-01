@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=🤖+机器学习自学计划;ML+Study+Roadmap+2026;从零基础到工程落地" alt="Typing SVG" />
+<img src="./banner.svg" alt="🤖 机器学习自学计划 ML Study Roadmap" width="100%"/>
 
 <br/>
 
